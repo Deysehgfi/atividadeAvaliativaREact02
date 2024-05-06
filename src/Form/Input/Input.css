@@ -1,0 +1,24 @@
+.ButtonAvaliar{
+    border-radius: 50%;
+    padding: 2%;
+    width: 45px;
+    height: 42px;
+    background-color: hsl(219, 15%, 23%);
+    border: none;
+    transition: 0.2s;
+    
+    
+
+}
+
+.ButtonAvaliar:hover{
+    background-color: hsl(216, 10%, 30%);
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    
+}
+

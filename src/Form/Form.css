@@ -1,0 +1,38 @@
+@import url(https://fonts.google.com/specimen/Overpass);
+
+form{
+    background-image: linear-gradient(hsl(219, 14%, 20%),hsl(217, 23%, 11%));
+    width: 350px;
+    height: 300px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    border-radius: 20px;
+    margin-top: 250px;
+    align-items: flex-start;
+    
+    
+    
+}
+
+
+p{
+    opacity: 65%;
+}
+
+img{
+    
+    padding: 10px;
+}
+
+.img{
+    background-color:  hsla(216, 10%, 30%, 0.563);
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    border-radius: 50%;
+    
+}
+
+

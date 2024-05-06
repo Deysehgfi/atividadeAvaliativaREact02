@@ -1,0 +1,20 @@
+@import url(https://fonts.google.com/specimen/Overpass);
+
+.button{
+    background-color:hsl(25, 97%, 53%);
+    border: none;
+    padding: 3%;
+    width: 100%;
+    border-radius: 20px;
+    transition: 0.2s;
+    
+}
+
+button{
+    font-family: 'specimen', sans-serif;
+}
+
+.button:hover{
+    background-color: aliceblue;
+    color:hsl(25, 97%, 53%);
+}
